@@ -1,0 +1,28 @@
+name: WON
+favicon: null
+layout_spectrum: 0.4541239959653467
+typography_spectrum: 0.08320387918502092
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.2742722318507731
+  lightness: 0.6031208457425237
+  saturation: 0.868058182997629
+  rhythmicContrast: 0.17830159096047282
+purpose: []
