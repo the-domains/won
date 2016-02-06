@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[WON]]></title>
-        <description><![CDATA[WON]]></description>
+        <title><![CDATA[Brand Experience Agency]]></title>
+        <description><![CDATA[Brand Experience Agency]]></description>
         <link>https://thegrid.ai/won/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 06 Feb 2016 18:32:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Feb 2016 19:59:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/won/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://i.vimeocdn.com/video/544797187_295x166.webp">]]></description>
+            <link>https://vimeo.com/146409598/settings/embed</link>
+            <guid isPermaLink="false">9d4efe4f-5cf2-46b1-bffd-401bcc5a948a</guid>
+            <pubDate>Sat, 06 Feb 2016 19:59:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/efbe0d798f3ffdd393ac43497a5230a9b15d5cbb.jpg" alt="" title="">]]></description>
