@@ -1,20 +1,4 @@
-name: WON
-favicon: null
-layout_spectrum: 0.4541239959653467
-typography_spectrum: 0.08320387918502092
-title: Brand Experience Agency
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#000000'
@@ -24,6 +8,11 @@ color:
     - '#000000'
   brandStrength: 0.2742722318507731
   lightness: 0.6031208457425237
-  saturation: 0.868058182997629
   rhythmicContrast: 0.17830159096047282
+  saturation: 0.868058182997629
+cta: {}
+layout_spectrum: 1
+name: WON
+opengraph: {}
 purpose: []
+typography_spectrum: 1
