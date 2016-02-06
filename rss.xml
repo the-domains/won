@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[WON]]></title>
         <description><![CDATA[WON]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/won/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 06 Feb 2016 18:30:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 06 Feb 2016 18:32:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/won/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/efbe0d798f3ffdd393ac43497a5230a9b15d5cbb.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/won/b113b08e-10e5-4d8f-a2fb-606d3638fd77/index.html</link>
+            <guid isPermaLink="false">b113b08e-10e5-4d8f-a2fb-606d3638fd77</guid>
+            <pubDate>Sat, 06 Feb 2016 18:31:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>TestikirjoitusLoremipsumLoremipsumLoremipsumLoremipsum</p>]]></description>
-            <link>undefined36a0a46e-1df6-4a61-97dd-fa73b445f2c9/index.html</link>
+            <link>https://thegrid.ai/won/36a0a46e-1df6-4a61-97dd-fa73b445f2c9/index.html</link>
             <guid isPermaLink="false">36a0a46e-1df6-4a61-97dd-fa73b445f2c9</guid>
             <pubDate>Sat, 06 Feb 2016 18:30:10 GMT</pubDate>
         </item>
