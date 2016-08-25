@@ -4,8 +4,15 @@
         <description><![CDATA[WON]]></description>
         <link>https://thegrid.ai/won/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jul 2016 16:04:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2016 15:44:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/won/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Testi]]></title>
+            <description><![CDATA[<article><h1>Testi</h1><p>TestikirjoitusLoremipsumLoremipsumLoremipsumLoremipsum</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/100c03f5-3082-4f80-b029-d646de8b5680.jpg"></article>]]></description>
+            <link>https://thegrid.ai/won/36a0a46e-1df6-4a61-97dd-fa73b445f2c9/index.html</link>
+            <guid isPermaLink="false">36a0a46e-1df6-4a61-97dd-fa73b445f2c9</guid>
+            <pubDate>Thu, 25 Aug 2016 15:42:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6cb4f510-0613-41fa-a0cb-5c2790c7758b.jpg">]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/won/b113b08e-10e5-4d8f-a2fb-606d3638fd77/index.html</link>
             <guid isPermaLink="false">b113b08e-10e5-4d8f-a2fb-606d3638fd77</guid>
             <pubDate>Sat, 06 Feb 2016 18:31:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>TestikirjoitusLoremipsumLoremipsumLoremipsumLoremipsum</p>]]></description>
-            <link>https://thegrid.ai/won/36a0a46e-1df6-4a61-97dd-fa73b445f2c9/index.html</link>
-            <guid isPermaLink="false">36a0a46e-1df6-4a61-97dd-fa73b445f2c9</guid>
-            <pubDate>Sat, 06 Feb 2016 18:30:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
